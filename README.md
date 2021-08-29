@@ -31,7 +31,7 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 * Intellj IDEA Community Edition ou sua IDE favorita.
 * Controle de versão GIT instalado na sua máquina.
 * Conta no GitHub para o armazenamento do seu projeto na nuvem.
-* Conta no Heroku para o deploy do projeto na nuvem
+* Conta no Heroku para o deploy do projeto na nuvem.
 
 
 
